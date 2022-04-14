@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Josset Garcia</h1>  
 <h3 align="center">A passionate backend developer from Chile.</h3>  
   
-- 🌱 I’m currently learning: **Microservices architecture**  
+- 🌱 I’m currently learning: **Cloud Native Spring in action** by **Thomas Vitale**  
   
 - I'm a student from [JetBrains/Hyperskill Academy](https://hyperskill.org/), check my [profile](https://hyperskill.org/profile/243404094)
   
-- 📖I'm reading about **Cloud technologies**
+- 📖I'm currently reading: **Spring in Action Sixth Edition** by **Craig Walls**
 -  📫 How to reach me: **jossetgf@gmail.com**  
   
 <h3 align="left">Languages and Tools:</h3>  
