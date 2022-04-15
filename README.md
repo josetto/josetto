@@ -1,16 +1,40 @@
 
-<h1 align="center">Hi 👋, I'm Josset Garcia</h1>  
-<h3 align="center">A passionate backend developer from Chile.</h3>  
+<h1 align="center">Hello there 👋</h1>  
+
   
-- 🌱 I’m currently learning: **Cloud Native Spring in action** by **Thomas Vitale**  
+
   
-- I'm a student from [JetBrains/Hyperskill Academy](https://hyperskill.org/), check my [profile](https://hyperskill.org/profile/243404094)
+```java
+	class SoftwareDeveloper {
+		private String name;
+		private String role;
+		private String country;
+		private String[] languages = new String[2];
+		
+		public SoftwareDeveloper() {
+			this.name = "Josset Garcia";
+			this.role = "Java Backend Developer";
+			this.country = "Chile"
+			this.languages[0] = "Spanish";
+			this.languages[1] = "English";
+		}
+		
+		public void sayHi(){
+			System.out.println("Hello world!, thank you for passing by ");
+		}
+	}
+```
+```java
+	SoftwareDeveloper josset = new SoftwareDeveloper();
+	josset.sayHi();
+```
+- 📝I'm solving challenges in [JetBrains/Hyperskill Academy](https://hyperskill.org/), check my [profile](https://hyperskill.org/profile/243404094)
   
-- 📖I'm currently reading: **Spring in Action Sixth Edition** by **Craig Walls**
--  📫 How to reach me: **jossetgf@gmail.com**  
-  
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>  
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=josetto&show_icons=true&locale=en&layout=compact" alt="josetto" /></p>  
+- 📖 Books that I'm currently reading:
+	      ![image](https://user-images.githubusercontent.com/100639615/163506935-8a553c70-b18b-4cc4-909e-5dd4bc7119f7.png)
+![image](https://user-images.githubusercontent.com/100639615/163506842-75dd8a6d-af70-47a4-a805-e9982b130f56.png)
+
+-  📫 How to reach me: **jossetgf@gmail.com**    
+
+
   
