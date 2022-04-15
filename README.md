@@ -31,8 +31,8 @@
 - 📝I'm solving challenges in [JetBrains/Hyperskill Academy](https://hyperskill.org/), check my [profile](https://hyperskill.org/profile/243404094)
   
 - 📖 Books that I'm currently reading: \
-	      ![image](https://user-images.githubusercontent.com/100639615/163506935-8a553c70-b18b-4cc4-909e-5dd4bc7119f7.png)    
-![image](https://user-images.githubusercontent.com/100639615/163509141-61c983fe-b685-4830-8e45-c08ee12a7a50.png)
+![image](https://user-images.githubusercontent.com/100639615/163506935-8a553c70-b18b-4cc4-909e-5dd4bc7119f7.png)    
+![image](https://user-images.githubusercontent.com/100639615/163509208-c4908489-bdcc-4490-95ef-c86d206cacab.png)
 
 -  📫 How to reach me: **jossetgf@gmail.com**    
 
