@@ -29,8 +29,8 @@
 	SoftwareDeveloper josset = new SoftwareDeveloper();
 	josset.sayHi();
 ```
-
-- 📝I'm solving challenges in [JetBrains/Hyperskill Academy](https://hyperskill.org/), check my [profile](https://hyperskill.org/profile/243404094)
+- 📝I'm solving challenges in [JetBrains/Hyperskill Academy](https://hyperskill.org/), check my [profile](https://hyperskill.org/profile/243404094).
+	* Current track: [Java Backend Developer](https://hyperskill.org/tracks/12)
   
 - 📖 Books that I'm currently reading:
 	* [Spring in action Sixth Edition](https://www.manning.com/books/spring-in-action-sixth-edition)
