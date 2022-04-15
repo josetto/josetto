@@ -32,7 +32,7 @@
   
 - 📖 Books that I'm currently reading: \
 	      ![image](https://user-images.githubusercontent.com/100639615/163506935-8a553c70-b18b-4cc4-909e-5dd4bc7119f7.png)    
-![image](https://user-images.githubusercontent.com/100639615/163506842-75dd8a6d-af70-47a4-a805-e9982b130f56.png)
+![image](https://user-images.githubusercontent.com/100639615/163509141-61c983fe-b685-4830-8e45-c08ee12a7a50.png)
 
 -  📫 How to reach me: **jossetgf@gmail.com**    
 
